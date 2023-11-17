@@ -15,15 +15,15 @@ El programa está divido en tres archivos diferentes:
 
 ---
 
-### XRD_file_interpreter
+### XRD_file_interpreter.py
 
 Este archivo contiene notación en Jupyter para tener un mejor entendimiento del programa que se está ejecutando, en el cual estadivido en un apartado que se encarga de abrir, leer y transformar los datos del archivo uxd para su posterior análisis y graficación por plotly.
 
-### grapher
+### grapher.py
 
 Al igual que el archivo __XRD_file_interpreter__. Este abre, lee y transforma los datos del archivo uxd para su posterior análisis. Posteriormente crea la gráifca y la exporta en un archivo de tipo HTML el cual se almacena en la carptea __template__. También despliega una página en la ip local (127.0.0.1) donde podremos observar y manipular la gráfica.
 
-### server
+### server.py
 
 Este archivo se encarga de crear un servidor el cual utiliza el archivo HTML generado por el programa __grapher__ y lo aloja para poder ser accesado desde la ruta raíz ('/')
 
