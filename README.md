@@ -1,6 +1,8 @@
 # XRD interpreter
 
-Este código funciona como interprete de archivos de tipo uxd, los cuales son generados por el software [software] utilizado por eel equipo difractométro de rayos X [Modelo]
+Este código funciona como interprete de archivos de tipo uxd, los cuales son generados por el software [software] utilizado por el equipo difractométro de rayos X [Modelo]
+
+![gráfica de muestra](grafica_muestra.png)
 
 ---
 
