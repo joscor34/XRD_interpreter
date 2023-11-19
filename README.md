@@ -33,11 +33,11 @@ Este archivo se encarga de crear un servidor el cual utiliza el archivo HTML gen
 
 Para utilizar este programa es necesario instalar los paquetes que vienen especificados en el archivo __requirements.txt__ con el siguiente comando:
 
-`pip install requirements.txt`
+`pip install -r requirements.txt`
 
 o para python3
 
-`pip3 install requirements.txt`
+`pip3 install -r requirements.txt`
 
 ## Información adicional 
 
