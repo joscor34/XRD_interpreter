@@ -1,6 +1,7 @@
 # XRD interpreter
 
-Este código funciona como interprete de archivos de tipo uxd, los cuales son generados por el software [software] utilizado por el equipo difractométro de rayos X [Modelo]
+Este código funciona como interprete de archivos de tipo uxd, los cuales son generados por el software (EVA(hace cálculos básicos) - TOPAS(Hace cálculo más 
+sofisticado y prerefinamiento)) utilizado por el equipo difractométro de rayos X __D8-Advance Brooker__
 
 ![gráfica de muestra](assets/grafica_muestra.png)
 
